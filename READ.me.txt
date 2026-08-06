@@ -1,0 +1,27 @@
+# 🎓 Student Management System
+
+A Student Management System built using Python, CustomTkinter and CSV.
+
+## Features
+
+- Add Student
+- View Student
+- Search Student
+- Delete Student
+- CSV Database
+- Modern GUI
+
+## Technologies
+
+- Python
+- CustomTkinter
+- CSV
+- Tkinter
+- ttk.Treeview
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python "student management system.py"
+```
